@@ -10,4 +10,4 @@ This mod is called Vampire!
 
 
 
-This mod was created by Albert Wang of NJIT
+This mod was created by Albert Wang
